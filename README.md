@@ -11,5 +11,7 @@ Dynamic graph/network dataset for dynamic graph/network embedding/representation
 | Facebook friendships          | 63,731        |817,035       |-             |-             |26             |[tNodeEmbedding IJCAI19](http://konect.uni-koblenz.de/networks/facebook-wosn-links)|
 | Slashdot          | 51,083        |140,778       |-             |-             |12             |[tNodeEmbedding IJCAI19](http://konect.uni-koblenz.de/networks/slashdot-threads)|
 | Cora          | 12,588        |47,675       |-             |-             |39             |[tNodeEmbedding IJCAI19](http://konect.uni-koblenz.de/networks/slashdot-threads)|
-| Cora          | 12,588        |47,675       |-             |-             |39             |[tNodeEmbedding IJCAI19](http://konect.uni-koblenz.de/networks/slashdot-threads)|
+| digg          | 283,183        |6,473,708       |-             |-             |-             |[node2bits PKDD19](http://konect.uni-koblenz.de/networks/slashdot-threads)|
+| wiki          | 1,140,149        |7,833,140       |-             |-             |-             |[node2bits PKDD19](http://konect.uni-koblenz.de/networks/slashdot-threads)|
+| MovieLens-10M          | 20,537        | 43,760       |-             |-             |13             |[DySAT WSDM20](https://drive.google.com/open?id=1TAWipN2y6uYf5BRtlKp-NY2BT3znH1YB)|
 | DBLP          | 781,108        |4,191,677       |160,648             |-             |10             |Our|
