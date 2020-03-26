@@ -11,4 +11,5 @@ Dynamic graph/network dataset for dynamic graph/network embedding/representation
 | Facebook friendships          | 63,731        |817,035       |-             |-             |26             |[tNodeEmbedding IJCAI19](http://konect.uni-koblenz.de/networks/facebook-wosn-links)|
 | Slashdot          | 51,083        |140,778       |-             |-             |12             |[tNodeEmbedding IJCAI19](http://konect.uni-koblenz.de/networks/slashdot-threads)|
 | Cora          | 12,588        |47,675       |-             |-             |39             |[tNodeEmbedding IJCAI19](http://konect.uni-koblenz.de/networks/slashdot-threads)|
-| DBLP          | 416,204        |1,436,225       |160,648             |-             |9             |[tNodeEmbedding IJCAI19(need pre-process)](http://dblp.uni-trier.de/xml)|
+| Cora          | 12,588        |47,675       |-             |-             |39             |[tNodeEmbedding IJCAI19](http://konect.uni-koblenz.de/networks/slashdot-threads)|
+| DBLP          | 781,108        |4,191,677       |160,648             |-             |10             |Our|
