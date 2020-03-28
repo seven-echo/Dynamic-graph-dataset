@@ -13,5 +13,7 @@ Dynamic graph/network dataset for dynamic graph/network embedding/representation
 | Cora          | 12,588        |47,675       |-             |-             |39             |[tNodeEmbedding IJCAI19](http://konect.uni-koblenz.de/networks/slashdot-threads)|
 | digg          | 283,183        |6,473,708       |-             |-             |-             |[node2bits PKDD19](http://konect.uni-koblenz.de/networks/slashdot-threads)|
 | wiki          | 1,140,149        |7,833,140       |-             |-             |-             |[node2bits PKDD19](http://konect.uni-koblenz.de/networks/slashdot-threads)|
+| digg_friends          | 71,367        | 1,731,658       |-             |-             |-2009             |[DNPS TKDE19](https://www.isi.edu/~lerman/downloads/digg2009.html)|
 | MovieLens-10M          | 20,537        | 43,760       |-             |-             |13             |[DySAT WSDM20](https://drive.google.com/open?id=1TAWipN2y6uYf5BRtlKp-NY2BT3znH1YB)|
+| Higgs Twitter          | 456,626        | 14,855,842       |-             |edge             |7 Days             |[SNAP standford](http://snap.stanford.edu/data/higgs-twitter.html)|
 | DBLP          | 781,108        |4,191,677       |160,648             |-             |10             |Our|
