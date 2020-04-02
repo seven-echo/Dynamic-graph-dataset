@@ -16,4 +16,5 @@ Dynamic graph/network dataset for dynamic graph/network embedding/representation
 | digg_friends          | 71,367        | 1,731,658       |-             |-             |-2009             |[DNPS TKDE19](https://www.isi.edu/~lerman/downloads/digg2009.html)|
 | MovieLens-10M          | 20,537        | 43,760       |-             |-             |13             |[DySAT WSDM20](https://drive.google.com/open?id=1TAWipN2y6uYf5BRtlKp-NY2BT3znH1YB)|
 | Higgs Twitter          | 456,626        | 14,855,842       |-             |edge             |7 Days             |[SNAP standford](http://snap.stanford.edu/data/higgs-twitter.html)|
+| Epinions          | 163,543        |581,983       |44             |-             |12             |[Our](https://cse.msu.edu/~tangjili/trust.html)|
 | DBLP          | 781,108        |4,191,677       |160,648             |-             |10             |Our|
